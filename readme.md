@@ -7,6 +7,9 @@
 ##
 ![Alt text](https://github.com/SEGAINVEX-ELECTRONICA/Base-SPM-20191136/blob/master/Imagenes/0portada.jpg "frontal")
 
+# [SOFTWARE DE PC](https://github.com/SEGAINVEX-ELECTRONICA/Base-SPM-20191136/blob/master/Base-SPM-Arduino-DUE V1_3_0)
+Desarrollado con Visual Studio Code y PlatformIO
+
 # [SOFTWARE DE PC](https://github.com/PatricioCoronado/Base-SPM-CVI)
 Desarrollado con LabWindos/CVI con licencia para SEGAINVEX-Electrónica.
 
