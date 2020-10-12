@@ -11,7 +11,7 @@ Desarrollado con LabWindos/CVI con licencia para SEGAINVEX-Electrónica.
 # [SOFTWARE PARA TABLET](https://github.com/PatricioCoronado/Base-SPM-tablet)
 Desarrollado con Android Studio 4.0.1
 
-# [MANUAL](https://github.com/PatricioCoronado/Base-SPM-Arduino-DUE/blob/V1_3/ficheros/Manual.pdf)
+# [MANUAL](https://github.com/SEGAINVEX-ELECTRONICA/Base-SPM-20191136/blob/master/Manual/manual_base_20191136.pdf)
 ## 
 # IMAGENES DEL PROYECTO
 ##
